@@ -2,7 +2,7 @@ name: DevelopCI
 
 on:
   push:
-    branches: [ "main", "Develop" ]
+    branches: [ "main", "test" ]
   pull_request:
     branches: [ "main" ]
 
